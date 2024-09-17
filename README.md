@@ -1,1 +1,1 @@
-# Mgic_8Ball
+# Magic_8Ball
